@@ -37,9 +37,9 @@ Multi-tenant SaaS platform that lets university departments independently manage
 
 ---
 
-### 📊 GitHub Stats
+### 🎲 Fun Corner
 
-<img src="https://github-readme-stats.vercel.app/api?username=IvanTran0101&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Ivan's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTran0101&layout=compact&hide_border=true&langs_count=6" height="165" alt="Top languages" />
+<img src="https://readme-jokes.vercel.app/api?bgColor=0D1117&borderColor=512BD4&quoteColor=E6EDF3&codeColor=A371F7" alt="Random programming joke — reload the page for another one" width="560" />
+# IvanTran0101
 # IvanTran0101
 # IvanTran0101
