@@ -51,5 +51,3 @@ Native Android app that helps users manage cooking recipes, organize weekly meal
 ### 🎲 Fun Corner
 
 <img src="https://readme-jokes.vercel.app/api?bgColor=0D1117&borderColor=512BD4&quoteColor=E6EDF3&codeColor=A371F7" alt="Random programming joke — reload the page for another one" width="560" />
-
-# IvanTran0101
