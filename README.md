@@ -25,10 +25,10 @@ REST APIs, background jobs, and cloud deployment on AWS.
 
 ### 🏅 Certifications
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/verification)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/bab6733874434526a96767a47d8c64c9)
 ![IELTS 7.0](https://img.shields.io/badge/IELTS-7.0-E4002B?style=flat-square)
 
-<sub>AWS CCP · issued Jul 2026, valid through Jul 2029 · cert ID: bab6733874434526a96767a47d8c64c9 · verify at aws.amazon.com/verification</sub>
+<sub>AWS CCP · issued Jul 2026, valid through Jul 2029 · [one-click verification →](https://cp.certmetrics.com/amazon/en/public/verify/credential/bab6733874434526a96767a47d8c64c9)</sub>
 
 ---
 
