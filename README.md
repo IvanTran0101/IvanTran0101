@@ -1,14 +1,20 @@
 ### 👋 Hi, I'm Ivan Tran
 
-**Backend Developer** — C# · .NET · ABP Framework · AWS · Applied AI
+Software Engineering Student | .NET Backend Developer | AWS Certified Cloud Practitioner
 
-I build backend systems with a focus on clean architecture and maintainable code:
-REST APIs, background jobs, and cloud deployment on AWS.
+I'm a Software Engineering undergraduate at Ton Duc Thang University, pursuing my degree through an English-taught program.
 
-- 🎯 Open to **Backend Developer** roles
-- 🔧 Main stack: **C# / .NET, ABP Framework, AWS**
-- 🤖 Exploring **Applied AI** — RAG systems & LLM engineering; planning a master's in this direction
-- 📫 Contact: `your.email@example.com` · [LinkedIn](https://www.linkedin.com/in/your-id)
+My primary focus is backend engineering using C#, ASP.NET Core, and ABP Framework, with interests in Domain-Driven Design, distributed systems, cloud infrastructure, and Applied AI.
+
+I enjoy designing business-oriented backend systems, translating domain requirements into maintainable code, and exploring modern software architectures.
+
+Currently:
+
+- Developing backend and full-stack applications with .NET and ABP Framework.
+- Learning cloud-native engineering and AI/LLM integration.
+- Seeking a .NET Backend Developer Internship in Ho Chi Minh City.
+
+📫 Contact: `your.email@example.com` · [LinkedIn](https://www.linkedin.com/in/your-id)
 
 ---
 
