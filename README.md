@@ -35,11 +35,21 @@ Multi-tenant SaaS platform that lets university departments independently manage
 
 <sub>.NET 10 · ASP.NET Core · ABP Framework · EF Core · SQL Server · RabbitMQ · Redis · Blazor WebAssembly · OpenIddict · YARP · Docker · Terraform · Ansible · AWS</sub>
 
+#### 🍳 [FinalRecipeApp — Android Recipe & Meal Planning App](https://github.com/IvanTran0101/FinalRecipeApp-New)
+
+Native Android app that helps users manage cooking recipes, organize weekly meal plans, monitor nutrition, and simplify grocery shopping.
+
+- 🏗️ **MVVM + Clean Architecture** — strict separation of UI, business use cases, repositories, and local/remote data sources
+- 🍜 **Recipe management & advanced filtering** — create/edit/delete, favorites, and search by category, diet type, calories, and macronutrients
+- 📊 **Meal planning & nutrition analytics** — weekly plans with auto-generated consolidated shopping lists and calorie/protein/carb/fat visualization
+- 💾 **Data & integrations** — Room/SQLite persistence, Volley sync from a remote JSON source, OpenStreetMap + Overpass nearby-grocery-store finder, cooking timer with AlarmManager & local notifications
+
+<sub>Java · Android SDK · MVVM · Clean Architecture · Room · SQLite · LiveData · Volley · Glide · OpenStreetMap · Overpass API · Gradle</sub>
+
 ---
 
 ### 🎲 Fun Corner
 
 <img src="https://readme-jokes.vercel.app/api?bgColor=0D1117&borderColor=512BD4&quoteColor=E6EDF3&codeColor=A371F7" alt="Random programming joke — reload the page for another one" width="560" />
-# IvanTran0101
-# IvanTran0101
+
 # IvanTran0101
