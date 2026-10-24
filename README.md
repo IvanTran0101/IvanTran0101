@@ -2,17 +2,31 @@
 
 Software Engineering Student | .NET Backend Developer | AWS Certified Cloud Practitioner
 
-I'm a Software Engineering undergraduate at Ton Duc Thang University, pursuing my degree through an English-taught program.
+I'm a Software Engineering undergraduate at Ton Duc Thang University, studying in an English-taught program.
 
-My primary focus is backend engineering using C#, ASP.NET Core, and ABP Framework, with interests in Domain-Driven Design, distributed systems, cloud infrastructure, and Applied AI.
+My primary focus is Backend Engineering, specializing in C#, ASP.NET Core, and ABP Framework, with a strong interest in Domain-Driven Design, distributed systems, and cloud-native architecture.
 
-I enjoy designing business-oriented backend systems, translating domain requirements into maintainable code, and exploring modern software architectures.
+**Current Focus**
 
-Currently:
+- Building backend systems using .NET, ABP Framework, and AWS.
+- Exploring microservices, event-driven architecture, and cloud infrastructure.
+- Developing personal projects involving backend engineering, mobile applications, and AI integration.
 
-- Developing backend and full-stack applications with .NET and ABP Framework.
-- Learning cloud-native engineering and AI/LLM integration.
-- Seeking a .NET Backend Developer Internship in Ho Chi Minh City.
+**Future Direction: Applied AI**
+
+I'm planning to pursue a Master's degree in Computer Science, specializing in Applied Artificial Intelligence, building upon my Software Engineering background.
+
+My long-term goal is to bridge Software Engineering and Applied AI, particularly through:
+
+- LLM Engineering & RAG: Building intelligent, context-aware applications.
+- AI Systems Engineering: Integrating AI capabilities into scalable backend architectures.
+- Edge & On-Device AI: Exploring local inference and resource-efficient AI deployment.
+
+I aim to develop practical AI-powered software systems that combine intelligent capabilities with reliable, maintainable engineering.
+
+**Career**
+
+Currently seeking a .NET Backend Developer Internship to gain industry experience and strengthen my software engineering foundations.
 
 📫 Contact: `your.email@example.com` · [LinkedIn](https://www.linkedin.com/in/your-id)
 
